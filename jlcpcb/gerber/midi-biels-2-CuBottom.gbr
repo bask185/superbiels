@@ -1,0 +1,26 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.9)*%
+%TF.CreationDate,2023-04-18T10:07:27+02:00*%
+%TF.ProjectId,midi-biels-2,6d696469-2d62-4696-956c-732d322e6b69,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.9)) date 2023-04-18 10:07:27*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ViaPad*%
+%ADD10C,1.500000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.N,*%
+X60700000Y-55750000D03*
+X67600000Y-55750000D03*
+X53600000Y-60950000D03*
+X53600000Y-50550000D03*
+X46600000Y-55750000D03*
+%TD*%
+M02*
